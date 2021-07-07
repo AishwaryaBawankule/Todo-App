@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678406640721",
+    "project_id": "database-7651a",
+    "storage_bucket": "database-7651a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678406640721:android:a410cfdefe83744e4b9470",
+        "android_client_info": {
+          "package_name": "co.in.nextgencoder.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678406640721-be656q02tsdk8u4brr653gmocpsflgnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKnuvl-HNEmZCivO_PIAJmDjkhKV42Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678406640721-be656q02tsdk8u4brr653gmocpsflgnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
